@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ilia-kravtsov.github.io/DZ_1/static/css/main.a2241559.css",
-    "main.js": "/ilia-kravtsov.github.io/DZ_1/static/js/main.408440f9.js",
-    "static/js/787.66cb4309.chunk.js": "/ilia-kravtsov.github.io/DZ_1/static/js/787.66cb4309.chunk.js",
-    "static/media/groot.png": "/ilia-kravtsov.github.io/DZ_1/static/media/groot.ee68661091d2c6d69877.png",
-    "index.html": "/ilia-kravtsov.github.io/DZ_1/index.html",
-    "main.a2241559.css.map": "/ilia-kravtsov.github.io/DZ_1/static/css/main.a2241559.css.map",
-    "main.408440f9.js.map": "/ilia-kravtsov.github.io/DZ_1/static/js/main.408440f9.js.map",
-    "787.66cb4309.chunk.js.map": "/ilia-kravtsov.github.io/DZ_1/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/DZ_1/static/css/main.a2241559.css",
+    "main.js": "/DZ_1/static/js/main.c1e4352f.js",
+    "static/js/787.66cb4309.chunk.js": "/DZ_1/static/js/787.66cb4309.chunk.js",
+    "static/media/groot.png": "/DZ_1/static/media/groot.ee68661091d2c6d69877.png",
+    "index.html": "/DZ_1/index.html",
+    "main.a2241559.css.map": "/DZ_1/static/css/main.a2241559.css.map",
+    "main.c1e4352f.js.map": "/DZ_1/static/js/main.c1e4352f.js.map",
+    "787.66cb4309.chunk.js.map": "/DZ_1/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2241559.css",
-    "static/js/main.408440f9.js"
+    "static/js/main.c1e4352f.js"
   ]
 }
