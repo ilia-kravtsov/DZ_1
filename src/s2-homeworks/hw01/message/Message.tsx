@@ -35,7 +35,7 @@ const Message = (props: MessagePropsType) => {
             <div id={'hw1-time-' + props.message.id} className={s.time}>
                 {/*создает студент*/}
 
-                {props.message.message.text}
+                {props.message.message.time}
             </div>
         </div>
     )

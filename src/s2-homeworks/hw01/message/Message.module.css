@@ -3,23 +3,39 @@
 }
 
 .imageAndText {
-
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 2rem;
 }
 
 .imageAndText img {
-
+    height: 50px;
+    margin: 1rem 0 0 1rem;
 }
 
 .text {
-
+    display: flex;
+    flex-direction: column;
+    background-color: #0066cc;
+    color: white;
+    border: 1px solid #0066cc;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
 }
 
 .text:after {
+    content: '';
+    position: absolute;
+    right: -25px; bottom: -8.5px;
+    border: 10px solid transparent;
+    border-left: 20px solid #0066cc;
+    transform: rotate(25deg);
 
 }
 
 .name {
-
+    align-self: end;
 }
 
 .messageText {
@@ -27,5 +43,6 @@
 }
 
 .time {
-
+    float: right;
+    padding: 0 5px 0 5px;
 }

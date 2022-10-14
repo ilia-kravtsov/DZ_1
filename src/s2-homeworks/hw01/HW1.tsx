@@ -47,10 +47,10 @@ export const friendMessage0: MessageType = {
     id: 100,
     user: {
         avatar: groot, // можно менять
-        name: 'Rocket', // можно менять
+        name: 'Groot', // можно менять
     },
     message: {
-        text: 'зеркальное сообщение для тренировки css', // можно менять
+        text: 'i am Groot', // можно менять
         time: '22:00', // можно менять
     },
 }
