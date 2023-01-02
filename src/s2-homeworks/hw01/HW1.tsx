@@ -58,8 +58,8 @@ export const friendMessage0: MessageType = {
 const HW1 = () => {
     return (
         <div id={'hw1'}>
-            <div className={s2.hwTitle}>Homework #1</div>
-            <div className={s2.hw}>
+            <div>Homework #1</div>
+            <div>
                 {/*проверка отображения (не менять)*/}
                 <div>
                     <Message message={message0}/>
